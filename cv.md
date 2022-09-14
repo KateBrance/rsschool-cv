@@ -1,9 +1,9 @@
 ##### My CV
 **********
 ## Ekaterina Briantseva
-------
+ ------
 # ContactInfo
-------
+ ------
 * Email
      - brokenglassballoon@gmail.com
 * SocialMedia
@@ -18,7 +18,7 @@ I know that could be hard to switch branches, so I would make a big effort to ac
 As a beginner I've just started my RSSchool course my first project is the CV at https://github.com/KateBrance/rsschool-cv
 Along the way my CV will be filled with my solved tasks.
 
------
+ -----
 # Languages
     - English C1
     - French B1
