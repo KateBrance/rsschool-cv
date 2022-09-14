@@ -1,7 +1,9 @@
-## My CV
+##### My CV
 **********
-Ekaterina Briantseva
+## Ekaterina Briantseva
+
+
 * Email
+     - brokenglassballoon@gmail.com
 * SocialMedia
-    - brokenglassballoon@gmail.com
     - inst: @moveable.beast
